@@ -74,7 +74,7 @@ Git workflow :
 
 git clone url 
 
-git clone https://github.com/srinivas1987devops/myweb.git
+git clone https://github.com/yamuna1012devops/myweb.git
 
 ls
 
@@ -114,9 +114,9 @@ master ==>> default branch.
 
 
 =========================================================================
-git config --global user.name “ramakrishnaj2020”
+git config --global user.name “yamuna1012”
 
-git config --global user.email “ramakrishnaj832@gmail.com”
+git config --global user.email “bellamkonda.yamuna10@gmail.com”
 
 
 git push origin master ==>> githubaccountname and github passsowrd ==>>> remote.
